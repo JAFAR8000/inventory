@@ -1,2 +1,3 @@
 # inventory
-This my first githup repository
+This my first githup repository.
+author - jafar
